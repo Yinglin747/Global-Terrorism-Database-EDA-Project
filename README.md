@@ -1,7 +1,7 @@
 #### Global-Terrorism-Database-EDA-Project
 
 Hello and thank you for checking out my project!
-<br><br>In this project, I analysed over 210,000 terrorist attacks around the world from 1970 to 2021 with Python and drew conclusions on their distributions and patterns.
+<br><br>In this project, I analyzed over 210,000 terrorist attacks around the world from 1970 to 2021 with Python and drew conclusions on their distributions and patterns.
 Tools/packages used:
 Python,
 Pandas,
